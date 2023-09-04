@@ -3,7 +3,7 @@ description: Random thoughts on everything.
 author: Dušan Maďar
 
 domain: dusanmadar.github.io
-url: "https://dusanmadar.github.io/"
+url: "https://dusanmadar.github.io"
 
 markdown: kramdown
 theme: minima
