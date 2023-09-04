@@ -11,3 +11,6 @@ minima:
   date_format: "%Y-%m-%d"
 
 show_excerpts: true
+
+plugins:
+  - jekyll-sitemap
