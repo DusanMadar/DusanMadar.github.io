@@ -5,8 +5,9 @@ author: Dušan Maďar
 domain: dusanmadar.github.io
 url: "https://dusanmadar.github.io/"
 
-
 markdown: kramdown
 theme: minima
 minima:
   date_format: "%Y-%m-%d"
+
+show_excerpts: true

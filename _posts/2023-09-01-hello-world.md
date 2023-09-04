@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hello world!"
+excerpt: A test post.
 ---
 
 

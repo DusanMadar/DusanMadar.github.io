@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "GitHub Pages Jekyll site kickoff with Docker"
+excerpt: >
+  After struggling to start a Jekyll site, I finally found a solution that
+  simplifies bootstrapping a Jekyll GitHub Pages site with Docker.
 ---
+
 
 **tl;dr** [github-pages-jekyll-site-kickoff-with-docker](https://github.com/DusanMadar/github-pages-jekyll-site-kickoff-with-docker)
 
